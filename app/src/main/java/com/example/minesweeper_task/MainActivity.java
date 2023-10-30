@@ -16,7 +16,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class MainActivity extends AppCompatActivity {
 
     private static final String BEGINNER = "BEGINNER";
-    private static final String INTERMEDIATE = "INTERMEDIATE";
+    private static  final String INTERMEDIATE = "INTERMEDIATE";
     private static final String EXPERT = "EXPERT";
     private WebView webview;
     private Spinner gameModeSpinner;
